@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Sandy Wu](https://github.com/xSerendipity)
+- Place: Chicago, Illinois, United States
+- Bio: I'm learning to code after far too long of procrastination :)
+- GitHub: [xSerendipity](https://github.com/xSerendipity)
