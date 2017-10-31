@@ -16685,3 +16685,8 @@ Noida
 - Place: Chicago, Illinois, United States
 - Bio: I'm learning to code after far too long of procrastination :)
 - GitHub: [xSerendipity](https://github.com/xSerendipity)
+
+#### Name: [Sandy Wu](https://github.com/xSerendipity)
+- Place: Chicago, Illinois, United States
+- Bio: I'm learning to code after far too long of procrastination :)
+- GitHub: [xSerendipity](https://github.com/xSerendipity)
